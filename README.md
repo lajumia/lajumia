@@ -23,6 +23,10 @@ Here are some of my notable projects:
 
 ### 🔹 Gutenberg Addons
 - **[Gutenberg Slider Addon](https://github.com/lajumia/comparison-slider-for-gutenberg)** - Custom Gutenberg slider block
+  
+### 🔹 Elementor Addons
+- **[Dynamic Blog Grid & Filters for Elementor](https://github.com/lajumia/dynamic-blog-grid-filters-for-elementor-)** - Create fast, responsive, and filterable blog grids with category & tag filters, pagination, and mobile off-canvas filters for Elementor.
+
 
 ## 🔧 Tech Stack
 - **Languages:** PHP, JavaScript, React, HTML, CSS
