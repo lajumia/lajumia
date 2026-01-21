@@ -19,10 +19,10 @@ A selection of my notable WordPress projects, grouped by platform and use case.
 ### 🔹 WordPress Plugins
 - **[Booking Pro](https://github.com/lajumia/booking-pro)**  
   Appointment booking system with a powerful admin panel.
-- **[Comparison Slider](https://github.com/lajumia/comparison-slider)**  
-  Lightweight image comparison slider block.
 - **[SpeedPress](https://github.com/lajumia/speedpress)**  
   Performance and speed optimization plugin for WordPress.
+- **[SpeedPress for Woocommerce](https://github.com/lajumia/speedpress-for-woocommerce)**  
+  Collection of woocommerce addons thats extend woocommerce functionality
 - **[Appointment Add-Ons for WooCommerce](https://github.com/lajumia/appointment-addons-for-woocommerce)**  
   Extend WooCommerce with advanced appointment booking features.
 
