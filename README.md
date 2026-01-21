@@ -45,7 +45,7 @@ A selection of my notable WordPress projects, grouped by platform and use case.
   - A custom UX Builder block that displays custom post types  
   - (Archives, Portfolio, Projects, etc.) in a filterable grid layout.
 
-### 🔹 Wordpress Native Widget for Woocommerce
+### 🔹 Wordpress Native Widget for Woocommerce at [American Stonecraft](https://www.americanstonecraft.com/shop/)
 - **[Filter By Taxonomy for Woocommerce](https://github.com/lajumia/filter-by-taxonomy-widget)**  
   - Filter WooCommerce products by any taxonomy.
   - AJAX-powered filtering without page reloads.
