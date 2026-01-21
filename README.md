@@ -13,22 +13,52 @@ I'm a **Top-Rated WordPress Developer** from Bangladesh, specializing in **plugi
 - 📦 **Widget Development** (Extending widget capabilities)
 
 ## 📌 Projects
-Here are some of my notable projects:
+A selection of my notable WordPress projects, grouped by platform and use case.
+
+---
 
 ### 🔹 WordPress Plugins
-- **[Booking Pro](https://github.com/lajumia/booking-pro)** - Appointment booking system with admin panel
-- **[Comparison Slider](https://github.com/lajumia/comparison-slider)** - Image comparison slider block
-- **[SpeedPress](https://github.com/lajumia/speedpress)** - Speed optimization plugin for WordPress
-- **[Appointment Add-Ons for WooCommerce](https://github.com/lajumia/appointment-addons-for-woocommerce)** - Extend WooCommerce with additional booking features
+Custom plugins built to extend WordPress core functionality.
+
+- **[Booking Pro](https://github.com/lajumia/booking-pro)**  
+  Appointment booking system with a powerful admin panel.
+
+- **[Comparison Slider](https://github.com/lajumia/comparison-slider)**  
+  Lightweight image comparison slider block.
+
+- **[SpeedPress](https://github.com/lajumia/speedpress)**  
+  Performance and speed optimization plugin for WordPress.
+
+- **[Appointment Add-Ons for WooCommerce](https://github.com/lajumia/appointment-addons-for-woocommerce)**  
+  Extend WooCommerce with advanced appointment booking features.
+
+---
 
 ### 🔹 Gutenberg Addons
-- **[Gutenberg Slider Addon](https://github.com/lajumia/comparison-slider-for-gutenberg)** - Custom Gutenberg slider block
-  
+Custom blocks designed for the WordPress block editor.
+
+- **[Gutenberg Slider Addon](https://github.com/lajumia/comparison-slider-for-gutenberg)**  
+  A flexible and customizable slider block for Gutenberg.
+
+---
+
 ### 🔹 Elementor Addons
-- **[Dynamic Blog Grid & Filters for Elementor](https://github.com/lajumia/dynamic-blog-grid-filters-for-elementor)** - Create fast, responsive, and filterable blog grids with category & tag filters, pagination, and mobile off-canvas filters for Elementor.
+Feature-rich addons built specifically for Elementor users.
+
+- **[Dynamic Blog Grid & Filters for Elementor](https://github.com/lajumia/dynamic-blog-grid-filters-for-elementor)**  
+  Fast, responsive, and filterable blog grids featuring:
+  - Category & tag filters  
+  - AJAX pagination  
+  - Mobile off-canvas filters  
+
+---
 
 ### 🔹 Flatsome Addons
-  - **[UX-Archives-Block-for-Flatsome](https://github.com/lajumia/UX-Archives-Block-for-Flatsome/tree/main)** - A custom Flatsome UX Builder block that displays your custom post type (e.g., Archives, Portfolio, Projects) in a filterable grid layout.
+Custom UX Builder blocks for the Flatsome theme.
+
+- **[UX Archives Block for Flatsome](https://github.com/lajumia/UX-Archives-Block-for-Flatsome/tree/main)**  
+  A custom UX Builder block that displays custom post types  
+  (Archives, Portfolio, Projects, etc.) in a filterable grid layout.
 
 
 ## 🔧 Tech Stack
