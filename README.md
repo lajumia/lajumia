@@ -22,10 +22,13 @@ Here are some of my notable projects:
 - **[Appointment Add-Ons for WooCommerce](https://github.com/lajumia/appointment-addons-for-woocommerce)** - Extend WooCommerce with additional booking features
 
 ### 🔹 Gutenberg Addons
-- **[Gutenberg Slider Addon](https://github.com/lajumia/comparison-slider-for-gutenberg)** - Custom Gutenberg slider block
+-- **[Gutenberg Slider Addon](https://github.com/lajumia/comparison-slider-for-gutenberg)** - Custom Gutenberg slider block
   
 ### 🔹 Elementor Addons
-- **[Dynamic Blog Grid & Filters for Elementor](https://github.com/lajumia/dynamic-blog-grid-filters-for-elementor-)** - Create fast, responsive, and filterable blog grids with category & tag filters, pagination, and mobile off-canvas filters for Elementor.
+-- **[Dynamic Blog Grid & Filters for Elementor](https://github.com/lajumia/dynamic-blog-grid-filters-for-elementor)** - Create fast, responsive, and filterable blog grids with category & tag filters, pagination, and mobile off-canvas filters for Elementor.
+
+### 🔹 Flatsome Addons
+  -- **[UX-Archives-Block-for-Flatsome](https://github.com/lajumia/UX-Archives-Block-for-Flatsome/tree/main)** - A custom Flatsome UX Builder block that displays your custom post type (e.g., Archives, Portfolio, Projects) in a filterable grid layout.
 
 
 ## 🔧 Tech Stack
