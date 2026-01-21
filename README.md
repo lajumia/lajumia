@@ -1,4 +1,4 @@
-# Md Laju Mia – WordPress Developer👋
+# Md Laju Miah – WordPress Developer👋
 
 ## 🚀 About Me
 I'm a **Top-Rated WordPress Developer** from Bangladesh, specializing in **plugin development, theme development, and any others related to wordpress development**. With years of experience in WordPress, I build high-quality solutions that enhance website performance and functionality. 
