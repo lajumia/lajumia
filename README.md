@@ -30,16 +30,12 @@ A selection of my notable WordPress projects, grouped by platform and use case.
 ---
 
 ### 🔹 Gutenberg Addons
-Custom blocks designed for the WordPress block editor.
-
 - **[Gutenberg Slider Addon](https://github.com/lajumia/comparison-slider-for-gutenberg)**  
   A flexible and customizable slider block for Gutenberg.
 
 ---
 
 ### 🔹 Elementor Addons
-Feature-rich addons built specifically for Elementor users.
-
 - **[Dynamic Blog Grid & Filters for Elementor](https://github.com/lajumia/dynamic-blog-grid-filters-for-elementor)**  
   Fast, responsive, and filterable blog grids featuring:
   - Category & tag filters  
@@ -49,8 +45,6 @@ Feature-rich addons built specifically for Elementor users.
 ---
 
 ### 🔹 Flatsome Addons
-Custom UX Builder blocks for the Flatsome theme.
-
 - **[UX Archives Block for Flatsome](https://github.com/lajumia/UX-Archives-Block-for-Flatsome/tree/main)**  
   A custom UX Builder block that displays custom post types  
   (Archives, Portfolio, Projects, etc.) in a filterable grid layout.
