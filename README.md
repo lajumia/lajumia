@@ -15,7 +15,6 @@ I'm a **Top-Rated WordPress Developer** from Bangladesh, specializing in **plugi
 ## 📌 Projects
 A selection of my notable WordPress projects, grouped by platform and use case.
 
----
 
 ### 🔹 WordPress Plugins
 - **[Booking Pro](https://github.com/lajumia/booking-pro)**  
@@ -27,13 +26,11 @@ A selection of my notable WordPress projects, grouped by platform and use case.
 - **[Appointment Add-Ons for WooCommerce](https://github.com/lajumia/appointment-addons-for-woocommerce)**  
   Extend WooCommerce with advanced appointment booking features.
 
----
 
 ### 🔹 Gutenberg Addons
 - **[Gutenberg Slider Addon](https://github.com/lajumia/comparison-slider-for-gutenberg)**  
   A flexible and customizable slider block for Gutenberg.
 
----
 
 ### 🔹 Elementor Addons
 - **[Dynamic Blog Grid & Filters for Elementor](https://github.com/lajumia/dynamic-blog-grid-filters-for-elementor)**  
@@ -42,7 +39,6 @@ A selection of my notable WordPress projects, grouped by platform and use case.
   - AJAX pagination  
   - Mobile off-canvas filters  
 
----
 
 ### 🔹 Flatsome Addons
 - **[UX Archives Block for Flatsome](https://github.com/lajumia/UX-Archives-Block-for-Flatsome)**  
@@ -51,9 +47,9 @@ A selection of my notable WordPress projects, grouped by platform and use case.
 
 ### 🔹 Wordpress Native Widget for Woocommerce
 - **[Filter By Taxonomy for Woocommerce](https://github.com/lajumia/filter-by-taxonomy-widget)**  
-- Filter WooCommerce products by any taxonomy.
-- AJAX-powered filtering without page reloads.
-- Searchable dropdown for easier selection.
+  - Filter WooCommerce products by any taxonomy.
+  - AJAX-powered filtering without page reloads.
+  - Searchable dropdown for easier selection.
 
 ## 🔧 Tech Stack
 - **Languages:** PHP, JavaScript, React, HTML, CSS
