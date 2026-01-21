@@ -46,14 +46,14 @@ A selection of my notable WordPress projects, grouped by platform and use case.
 
 ### 🔹 Flatsome Addons
 - **[UX Archives Block for Flatsome](https://github.com/lajumia/UX-Archives-Block-for-Flatsome)**  
-  A custom UX Builder block that displays custom post types  
-  (Archives, Portfolio, Projects, etc.) in a filterable grid layout.
+  - A custom UX Builder block that displays custom post types  
+  - (Archives, Portfolio, Projects, etc.) in a filterable grid layout.
 
 ### 🔹 Wordpress Native Widget for Woocommerce
 - **[Filter By Taxonomy for Woocommerce](https://github.com/lajumia/filter-by-taxonomy-widget)**  
-Filter WooCommerce products by any taxonomy.
-AJAX-powered filtering without page reloads.
-Searchable dropdown for easier selection.
+- Filter WooCommerce products by any taxonomy.
+- AJAX-powered filtering without page reloads.
+- Searchable dropdown for easier selection.
 
 ## 🔧 Tech Stack
 - **Languages:** PHP, JavaScript, React, HTML, CSS
