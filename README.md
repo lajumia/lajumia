@@ -28,8 +28,8 @@ A selection of my notable WordPress projects, grouped by platform and use case.
 
 
 ### 🔹 Gutenberg Addons
-- **[Gutenberg Slider Addon](https://github.com/lajumia/comparison-slider-for-gutenberg)**  
-  A flexible and customizable slider block for Gutenberg.
+- **[Gutenberg Title and Post Layout ](https://github.com/lajumia/gutenberg-blocks)**  
+  A flexible and customizable title and post layout block for Gutenberg.
 
 
 ### 🔹 Elementor Addons
