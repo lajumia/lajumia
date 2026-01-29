@@ -23,10 +23,12 @@ A selection of my notable WordPress projects, grouped by platform and use case.
   Performance and speed optimization plugin for WordPress.
 - **[SpeedPress for Woocommerce](https://github.com/lajumia/speedpress-for-woocommerce)**  
   Collection of woocommerce addons thats extend woocommerce functionality
+
+
+### 🔹 WooCommerce Addons
 - **[Appointment Add-Ons for WooCommerce](https://github.com/lajumia/appointment-addons-for-woocommerce)**  
   Extend WooCommerce with advanced appointment booking features.
-
-
+  
 ### 🔹 Gutenberg Addons
 - **[Gutenberg Title and Post Layout ](https://github.com/lajumia/gutenberg-blocks)**  
   A flexible and customizable title and post layout block for Gutenberg.
